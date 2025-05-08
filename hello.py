@@ -1,1 +1,1 @@
-print("Hello from Lesze and Friend!")
+print("subo mo tite ko")
